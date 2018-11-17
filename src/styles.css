@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    position: relative;
+}
+
+wizard {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+step {
+    flex: 1;
+}

@@ -1,0 +1,2 @@
+{"C:\\Projects\\aurelia-wizard\\src\\index.ts": {"path":"C:\\Projects\\aurelia-wizard\\src\\index.ts","statementMap":{"0":{"start":{"line":2,"column":0},"end":{"line":2,"column":38}},"1":{"start":{"line":5,"column":4},"end":{"line":8,"column":7}},"2":{"start":{"line":4,"column":0},"end":{"line":9,"column":1}}},"fnMap":{"0":{"name":"configure","decl":{"start":{"line":4,"column":16},"end":{"line":4,"column":25}},"loc":{"start":{"line":4,"column":57},"end":{"line":9,"column":1}}}},"branchMap":{},"s":{"0":0,"1":0,"2":0},"f":{"0":0},"b":{}}
+}

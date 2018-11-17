@@ -1,0 +1,4 @@
+<template class="${selected ? 'current' : ''}" show.bind="selected">
+    <slot></slot>
+    <compose containerless if.bind="path" view-model.bind="path" model.bind="model" compose.ref="stepRef"></compose>
+</template>
